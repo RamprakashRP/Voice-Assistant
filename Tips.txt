@@ -1,0 +1,4 @@
+'''To find out the path of an app downloaded using the microsooft dtore or to try the method below follow the steps:
+                    1. Open Powershell as administrator
+                    2. Type ("get-StartApps")
+                    3 Find the Application needed'''
